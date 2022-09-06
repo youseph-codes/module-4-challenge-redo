@@ -27,3 +27,6 @@ Let's have a look at the leaderboard page. What we here is a page that will stor
 ![Leaderboard Page](./assets/images/High%20Score%20Page.png)
 
 ## Deployed Link
+
+Give it a go yourself!
+https://youseph-codes.github.io/module-4-challenge-redo/
